@@ -23,7 +23,7 @@ print(f"She said the most important skill you need to know to do her job is how 
 input("")
 print(f"She said it was easy for her to learn how to do her job because she loved to {hobby} when she was my age - and that helps alot!")
 input("")
-print(f"If your considering becoming a {job} i hope you can be near a {adjective2} {Object}.")
+print(f"If you're considering becoming a {job} i hope you can be near a {adjective2} {Object}.")
 input("")
 print("Thats very important!")
 input("")
