@@ -26,7 +26,7 @@ for i in range(40):
     x2 += random.randint(5,15)
     x3 += random.randint(5,15)
     x4 += random.randint(5,15)
-
+# they are all random and will have an equal chance of winning because the amount of pixels they move are randomized
     t1.goto(x1, y1)
     t2.goto(x2, y2)
     t3.goto(x3, y3)
