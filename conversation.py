@@ -29,7 +29,7 @@ s2.clear()
 window.update()
 time.sleep(1)
 
-s2.write ("its super funnnnn", font = ("Arial", 20, "normal")")
+s2.write ("its super funnnnn", font = ("Arial", 20, "normal"))
 
 s2.clear()
 window.update()
